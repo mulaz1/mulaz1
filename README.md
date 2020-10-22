@@ -1,6 +1,6 @@
 # About Mulaz1
-## Hello guys Welcome to my Github page 👐
-## My name is __Simone__, Mulaz1 on internet 👻
+ __Hello guys Welcome to my Github page 👐__
+ __My name is __Simone__, Mulaz1 on internet 👻__
 
 * I'm Computer Engineering at University of Parma student
 * I love videogames 👾 🎮
