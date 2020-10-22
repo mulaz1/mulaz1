@@ -2,7 +2,7 @@
  __Hello guys Welcome to my Github page 👐__<br><br>
  __My name is __Simone__, Mulaz1 on internet 👻🇮🇹__<br><br>
 
-* 🎓 I'm Computer Engineering at University of Parma student
+* 🎓 I'm Computer Engineering at @UniPR student
 * 👾 I love videogames  
 * 📺 I like make website and Web Application [example public site](http://apptemp.mulazlab.com) or [my site](http://mulaz1.github.io)
 * 🔨 I worked for Laiton Ensable
