@@ -9,4 +9,5 @@
 * 🚗 I'm a team member of the UNIPR Racing Team (a Formula SAE vehicle competition)
 * 🚀 At the moment I'm learning Python, artificial intelligence and Java, but I know Html, CSS, JavaScript and PHP very well
 
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulaz1)](https://github.com/anuraghazra/github-readme-stats)
