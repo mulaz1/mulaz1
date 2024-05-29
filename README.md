@@ -2,12 +2,11 @@
  __Hello guys Welcome to my Github page 👐__<br><br>
  __My name is __Simone__, Mulaz1 on internet 👻🇮🇹__<br><br>
 
-* 🎓 I'm a Computer Engineering student @UniPR
+* 🎓 I'm a Embedded system Engineering student @Polito
 * 👾 I love videogames  
-* 📺 I like to build websites and web apps, like this example or my website [example public site](http://apptemp.mulazlab.com) or [my site](http://mulaz1.github.io)
-* 🔨 I worked for Laiton Ensemble
-* 🚗 I'm a team member of the UNIPR Racing Team (a Formula SAE vehicle competition)
-* 🚀 At the moment I'm learning Python, artificial intelligence and Java, but I know Html, CSS, JavaScript and PHP very well
+* 📺 I like to design PCBs and code for my projects, like the project on my [personal site](http://mulaz1.github.io)
+* 🚗 I was a team member for 2 years, and Electronics and software department head for 1 year of the UNIPR Racing Team (a Formula SAE vehicle competition)
+* 🚀 At the moment I'm learning C, ARM assembly,FPGA and how to design and optimize a microprocessor.
 
 <br>
 
